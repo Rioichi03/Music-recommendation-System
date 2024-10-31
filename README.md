@@ -8,7 +8,7 @@ To manage the computational complexity of a large dataset, this project utilizes
 In addition, various aspects of song data, including danceability, energy, tempo, and more, can be further explored for multi-dimensional filtering, though this project focuses primarily on genre-based recommendations.
 
 ## Features
-• Personalized song recommendations based on genre and audio features./n \n 
+• Personalized song recommendations based on genre and audio features. <br/>
 • Efficient data handling through the selection of top songs by popularity.
 • Utilization of CountVectorizer and cosine similarity to measure song similarity accurately.
 
