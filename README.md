@@ -9,7 +9,7 @@ In addition, various aspects of song data, including danceability, energy, tempo
 
 ## Features
 • Personalized song recommendations based on genre and audio features. <br/>
-• Efficient data handling through the selection of top songs by popularity.
+• Efficient data handling through the selection of top songs by popularity. <br/>
 • Utilization of CountVectorizer and cosine similarity to measure song similarity accurately.
 
 ## Future Directions
